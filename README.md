@@ -1,1 +1,1 @@
-# Gas-deector-sensor-tinkercad
+# Gas-detector-sensor-tinkercad
